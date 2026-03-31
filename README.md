@@ -41,10 +41,11 @@ The simulation shows:
 ## Screenshots
 
 ### Transfer Orbit
-Add screenshot here.
+<img width="658" height="791" alt="Screenshot 2026-03-31 204741" src="https://github.com/user-attachments/assets/3f6576a5-578a-4b05-a7c8-cdd05986f67a" />
+
 
 ### Final Orbit
-Add screenshot here.
+<img width="679" height="792" alt="image" src="https://github.com/user-attachments/assets/4a0b8c60-f5fc-42bd-9f86-914adaf88bd6" />
 
 ## Conclusion
 This project successfully demonstrates a Hohmann transfer using GMAT. It shows how orbital maneuvers can be modeled using impulsive burns and propagation conditions in mission analysis software.
