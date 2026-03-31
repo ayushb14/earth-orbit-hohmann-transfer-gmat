@@ -31,7 +31,6 @@ Two impulsive burns are applied:
 ## Files Included
 - `HohmannTransfer.script` - GMAT script for the mission
 - `screenshots/` - orbit visualization images
-- `HohmannResults.txt` - mission output data (if available)
 
 ## Output
 The simulation shows:
